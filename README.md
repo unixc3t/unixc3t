@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unixc3t&show_icons=true&theme=vue-dark&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unixc3t&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
